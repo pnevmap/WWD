@@ -1,0 +1,5 @@
+"BACnet Object","Control","Name","Status","Value","Ord"
+"analogInput:0","Read Only","Drivers.BacnetNetwork.Framboise 3.14 Bacnet GPIO.points.CPU Temperature","{ok}","0.00 °C","station:|h:4a434"
+"analogOutput:0","Write All Priorities","Drivers.BacnetNetwork.Inpatient Mock Bacnet Device1.points.Writable unsigned int object","{ok}","10.00 °C","station:|h:4baf1"
+"analogOutput:1","Write All Priorities","Drivers.BacnetNetwork.Inpatient Mock Bacnet Device2.points.Writable unsigned int object","{ok}","500.00 °C","station:|h:4bb0a"
+"binaryOutput:1","Write All Priorities","Drivers.BacnetNetwork.Framboise 3.14 Bacnet GPIO.points.Output GPIO17","{ok}","false","station:|h:4a3bf"
